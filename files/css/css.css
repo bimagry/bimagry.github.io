@@ -307,8 +307,8 @@ padding: 20px;
 .menu{
 	display: block;
 	margin: 0 auto;
-	    background: #55c974;
-	box-shadow: 0 0 20px #55c974;
+	    background: #DC143C;
+	box-shadow: 0 0 20px #DC143C;
 	width: 100%;
 	position: fixed;
 	top:0;right: 0;left: 0;
