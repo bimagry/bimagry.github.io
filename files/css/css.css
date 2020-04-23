@@ -322,9 +322,9 @@ header ul{
 }
 header ul a{
 	color:white;
-	    background: #55c974;
+	    background: #DC143C;
 	margin: 30px;
-	text-shadow: 0 1px 0 #55c974;
+	text-shadow: 0 1px 0 #DC143C;
 	transition: 0.5s;
 }
 header ul a:hover{
